@@ -65,7 +65,7 @@
                     <plugin>
                         <groupId>com.github.ferstl</groupId>
                         <artifactId>depgraph-maven-plugin</artifactId>
-                        <version>3.3.0</version>
+                        <version>4.0.3</version>
                         <configuration>
                             <graphFormat>text</graphFormat>
                             <outputFileName>direct-dependencies.txt</outputFileName>
